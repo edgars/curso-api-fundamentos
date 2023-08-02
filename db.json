@@ -1,0 +1,24 @@
+{
+  "funcionarios": [
+    {
+      "id": 1,
+      "nome": "Frank Mir",
+      "salary": "10000"
+    },
+    {
+      "name": "Amanda Nunes",
+      "salary": "15000",
+      "id": 2
+    },
+    {
+      "salary": "18000",
+      "id": 3,
+      "name": "Charles do Bronx"
+    },
+    {
+      "id": 4,
+      "name": "Rodrigo Minotauro",
+      "salary": "11000"
+    }
+  ]
+}
